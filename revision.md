@@ -24,3 +24,9 @@ library("lubridate")
     ## The following objects are masked from 'package:base':
     ## 
     ##     date, intersect, setdiff, union
+
+``` r
+a<- 1654
+b<- 123
+c<- b-a
+```

@@ -1,0 +1,24 @@
+---
+title: "R Notebook"
+output: github_document
+---
+
+```{r}
+getwd()
+```
+```{r}
+install.packages("lubridate")
+```
+
+
+```{r}
+library("lubridate")
+```
+
+```{r}
+a<- 1654
+b<- 123
+c<- b-a
+```
+
+

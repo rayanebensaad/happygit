@@ -1,0 +1,16 @@
+---
+title: "test test"
+output: github_document
+---
+
+```{r}
+getwd()
+```
+```{r}
+install.packages("lubridate")
+library("lubridate")
+```
+```{r}
+dmy(06052000)
+```
+

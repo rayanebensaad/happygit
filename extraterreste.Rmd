@@ -1,0 +1,14 @@
+---
+title: "R Notebook"
+output: github_document
+---
+```{r}
+plot(cars)
+```
+
+
+```{r}
+getwd()
+```
+
+
